@@ -4,7 +4,7 @@
 int main()
 {
      
-     printf("hello world");
-    printf("hello 1 file add student");
+     printf("hello Student");
+   
     return 0;
 }
